@@ -39,5 +39,3 @@
 
 <br>
 <br>
-
-⭐️ From [Rehan](https://github.com/Rehan2156)
