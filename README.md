@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Rehan Shaikh 👋 </h1>
+<h1 align="center">Hey there! I am Rehan Shaikh 👋 </h1>
 <h3 align="center">🚀 App Developer | Frontend Developer | Competitive Programmer  🚀</h3>
 <div>
 <div align="left"> 
@@ -7,7 +7,7 @@
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; I can make robust Android apps.
+  - ⚡ &nbsp; I can make robust Android apps.
 </div> 
 </div>
 
