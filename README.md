@@ -30,12 +30,14 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=Firebase&logoColor=007396)
 
 
-<br/>
+<br>
 
 <img align="left" alt="How Good I am Github?" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rehan2156&show_icons=true&hide_border=true&theme=cobalt" />
 
-<br/>
+<br>
+<br>
 
 ⭐️ From [Rehan](https://github.com/Rehan2156)
