@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I am Rehan Shaikh 👋 </h1>
-<h3 align="center">🚀 App Developer | Frontend Developer | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 App Developer | Full Stack Developer | Competitive Programmer  🚀</h3>
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
