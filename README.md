@@ -29,7 +29,9 @@
 
 - 📱 &nbsp;
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
+    
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
