@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I am Rehan Shaikh 👋 </h1>
+<h1 align="center">Hey there! I am Rehan 👋 </h1>
 <h3 align="center">🚀 App Developer | Full Stack Developer | Competitive Programmer  🚀</h3>
 <div>
 <div align="left"> 
