@@ -24,6 +24,9 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![ExpressJS](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+
 - 📱 &nbsp;
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
   ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
