@@ -7,7 +7,7 @@
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - ⚡ &nbsp; I can make robust Android apps.
+  - ⚡ &nbsp; I can make scalable Android and React Native apps.
 </div> 
 </div>
 
