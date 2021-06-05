@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I am Rehan 👋 </h1>
-<h3 align="center">🚀 App Developer | Full Stack Developer | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 App Developer | Front End Developer🚀</h3>
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
@@ -7,7 +7,7 @@
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - ⚡ &nbsp; I can make scalable Android and React Native apps.
+  - ⚡ &nbsp; I can make scalable Web and Mobile apps.
 </div> 
 </div>
 
@@ -25,12 +25,12 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![ExpressJS](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node-js)
+  ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material-ui)
 
 - 📱 &nbsp;
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-  ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
     
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
