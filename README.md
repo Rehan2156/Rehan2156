@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I am Rehan 👋 </h1>
-<h3 align="center">🚀 App Developer | Front End Developer🚀</h3>
+<h3 align="center">🚀 Full Stack Developer 🚀</h3>
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
