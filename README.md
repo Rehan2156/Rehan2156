@@ -5,16 +5,16 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - ⚡ &nbsp; I can make scalable Web and Mobile apps.
+  - 🎓 &nbsp; Completed Bachelors of Engineering in Computer Science.
+  - 💼 &nbsp; I’m currently working at Credit Suisse as a Java Full Stack Developer.
+  - ⚡ &nbsp; I can make web apps.
 </div> 
 </div>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
@@ -27,6 +27,8 @@
   ![ExpressJS](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node-js)
   ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material-ui)
+  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot)
+
 
 - 📱 &nbsp;
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
